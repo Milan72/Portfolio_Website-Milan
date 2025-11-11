@@ -4,7 +4,7 @@ A modern, interactive personal portfolio website built by me with Next.js, TypeS
 
 
 
-## 📁 Project Structure Used
+## Project Structure Used
 
 ```
 portfolio-milan/
@@ -27,7 +27,7 @@ portfolio-milan/
 └── package.json
 ```
 
-## ✏️ Customization
+## Customization
 
 ### Update Your Information
 
@@ -48,15 +48,15 @@ personal: {
 }
 ```
 
-## 🎨 Features
+## Features of the website
 
-- ✨ Modern and responsive design
-- 🎭 Smooth animations with Framer Motion
-- 📱 Mobile-friendly interface
-- 🚀 Fast performance with Next.js
-- 🎯 Interactive sections: Hero, About, Skills, Projects, Experience, Contact
+- Modern and responsive design
+- Smooth animations with Framer Motion
+- Mobile-friendly interface
+- Fast performance with Next.js
+- Interactive sections: Hero, About, Skills, Projects, Experience, Contact
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js 14** - React framework
 - **TypeScript** - Type safety
@@ -64,7 +64,7 @@ personal: {
 - **Framer Motion** - Animations
 - **React Icons** - Icon library
 
-## 📦 Build for Production
+## Build for Production
 
 ```bash
 npm run build
